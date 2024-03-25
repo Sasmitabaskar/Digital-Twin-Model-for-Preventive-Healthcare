@@ -17,7 +17,7 @@ Firebase: Firebase Realtime Database, Cloud Firestore and Firebase storage
 Twilio 
 APIs used : Google Cloud Platform, OpenAI, Twilio
 OpenAI Model: gpt 3.5 turbo
-Platform : Visual Studio Code
+Platform : Visual Studio Code.
 
 
 

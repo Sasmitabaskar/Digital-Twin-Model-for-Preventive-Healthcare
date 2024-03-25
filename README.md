@@ -1,6 +1,6 @@
 # Digital-Twin-Model-for-Preventive-Healthcare
 
-PROJECT URL : https://drive.google.com/drive/folders/13FzYVqP_LFQpvzLgklk7XIwRaFRfXa3s?usp=sharing
+COMPLETE PROJECT URL : https://drive.google.com/drive/folders/13FzYVqP_LFQpvzLgklk7XIwRaFRfXa3s?usp=sharing
 
 The "Digital Twin Model for Preventive Healthcare" is a revolutionary healthcare web application designed exclusively for the general external skin problems or diseases.
 It addresses the limitations of text-based symptom descriptions by allowing users to interact directly with digital representations of their bodies, known as "Digital Twins.
